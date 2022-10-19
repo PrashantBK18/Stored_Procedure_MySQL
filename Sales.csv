@@ -1,0 +1,4 @@
+Order_Id,Order_Date,Product_code,Qty_Ordered,Sale_Price
+1,2022-01-10,P1,100,120000
+2,2022-01-20,P1,50,60000
+3,2022-02-05,P1,45,540000
